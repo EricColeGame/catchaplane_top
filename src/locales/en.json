@@ -6,7 +6,15 @@
     "description": "Your ultimate Catch a Plane guide on Roblox! Learn plane-catching strategies, glove and gear upgrades, strength training, and progression tips.",
     "legalNotice": "Non-official fan wiki. Catch a Plane is a Roblox game by Oi_iO; this site is not affiliated with Oi_iO or Roblox."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "codes": "Codes",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "items": "Items",
+    "controls": "Controls",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "Catch a Plane Wiki - Codes, Guide & Gear",
@@ -391,7 +399,34 @@
       "secondary": "Play Catch a Plane on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Catch a Plane Guide: Beginner Tips and Progression",
+    "overviewDescription": "Browse Catch a Plane guides covering your first grab, grip training, glove upgrades, gear boxes, money routes, and the fastest way to reach the finish."
+  },
+  "codes": {
+    "overviewTitle": "Catch a Plane Codes: Working Rewards and Redemption",
+    "overviewDescription": "Find the latest Catch a Plane codes, learn where new rewards appear, and follow the redemption steps for free gifts."
+  },
+  "mechanics": {
+    "overviewTitle": "Catch a Plane Mechanics: Grip, Upgrades, and Rebirth",
+    "overviewDescription": "Understand Catch a Plane grip mechanics, damage upgrades, training, rebirth, plane catching, and the systems that push your runs farther."
+  },
+  "progression": {
+    "overviewTitle": "Catch a Plane Progression: Upgrade Order and Unlocks",
+    "overviewDescription": "Plan your Catch a Plane progression with upgrade priorities, faster routes, new plane unlocks, and efficient spending decisions."
+  },
+  "items": {
+    "overviewTitle": "Catch a Plane Planes and Items: Gear, Gloves, and Rarities",
+    "overviewDescription": "Compare Catch a Plane plane types, rare planes, strongest planes, gloves, and gear so you know what to chase next."
+  },
+  "controls": {
+    "overviewTitle": "Catch a Plane Controls: PC, Mobile, and Advanced Movement",
+    "overviewDescription": "Learn Catch a Plane controls for PC and mobile, including grabbing, flying, camera movement, and advanced plane-catching techniques."
+  },
+  "community": {
+    "overviewTitle": "Catch a Plane Community: Updates, Discord, and Gameplay",
+    "overviewDescription": "Follow Catch a Plane community updates, gameplay videos, Discord discussions, Reddit posts, and news about new planes."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
