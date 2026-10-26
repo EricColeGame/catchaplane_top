@@ -19,15 +19,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Catch a Plane Wiki",
+  shortName: "Catch a Plane",
+  logoText: "C",
+  tagline: "Plane-Catching Guides, Gloves & Gear",
+  description: "Your ultimate Catch a Plane guide on Roblox! Learn plane-catching strategies, glove and gear upgrades, strength training, and progression tips.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://catchaplane.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://catchaplane.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.roblox.com/games/86522629968403/Catch-a-Plane",
+  heroVideoId: "aL1FDRtS7qQ", // Catch a Plane Roblox gameplay
   social: {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/@roblox",

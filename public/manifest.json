@@ -1,13 +1,22 @@
 {
-  "name": "VV: ULTIMATUM Wiki",
-  "short_name": "VV Ultimatum",
-  "description": "Fan-made VV: ULTIMATUM Roblox wiki with codes, bosses, builds, races and guides.",
+  "id": "/",
+  "name": "Catch a Plane Wiki",
+  "short_name": "Catch a Plane",
+  "description": "Catch a Plane Roblox guides, glove and gear upgrades, plane-catching strategies, and progression tips.",
+  "lang": "en",
+  "dir": "ltr",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "#0d0d0d",
-  "theme_color": "#9f4623",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#F0F9FF",
+  "theme_color": "#38BDF8",
+  "categories": ["games", "entertainment"],
   "icons": [
-    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
-  ]
+    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "prefer_related_applications": false
 }
