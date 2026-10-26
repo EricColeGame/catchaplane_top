@@ -39,96 +39,78 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Watch a full takeoff cycle, practice on the slowest aircraft, and turn your first clean holds into grip training."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Fastest Progression",
+          "description": "Follow the upgrade path that moves from grip training to glove tiers and gear boxes without wasting runs."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Upgrade Priority",
+          "description": "Learn when to buy gloves, strength, or gear boxes based on why your current runs are ending."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Catch a Plane."
+          "title": "All Codes",
+          "description": "Redeem the developer-listed oiio10k gift code and learn where new Catch a Plane codes appear first."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Catch a Plane Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Upgrade Order",
+        "Best Planes",
+        "Working Codes"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Start with takeoff timing, clean grabs, grip training, and the first glove upgrades.",
+          "href": "/guide/catch-a-plane-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
+          "title": "Working Codes",
+          "description": "Redeem the developer-listed oiio10k gift code and know where new codes appear.",
           "href": "/codes"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Popular",
+          "title": "Upgrade Order",
+          "description": "Choose gloves, grip strength, and gear boxes in the order that fixes your current run.",
+          "href": "/progression/catch-a-plane-upgrade-order"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Best Planes",
+          "description": "Match aircraft weight and speed to your glove tier instead of chasing the biggest jet.",
+          "href": "/items/catch-a-plane-best-planes"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Mechanics",
+          "title": "Rebirth Guide",
+          "description": "Know when to reset, what to prepare, and how to rebuild momentum after a rebirth.",
+          "href": "/mechanics/catch-a-plane-rebirth-system"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Update",
+          "title": "Latest Update",
+          "description": "See what changed in [Upd 1] on October 25, 2026 and what it means for your next run.",
+          "href": "/community/catch-a-plane-update"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Catch a Plane?",
       "paragraphs": [
-        "Catch a Plane is a Roblox simulator where you grab passing planes, train your strength, upgrade gloves, collect powerful gear, and reach the finish to unlock new worlds.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Catch a Plane is a Roblox incremental simulator from Oi_iO. You sprint down a runway, jump onto a passing plane, and hold on while your grip meter drains; every completed ride feeds strength training, glove upgrades, gear boxes, and trophies.",
+        "The loop is simple to learn and deep enough to plan around. Train grip to hold longer, upgrade gloves to grab faster and heavier aircraft, open gear boxes for jetpacks, parachutes, and Gravity Wings, then reach the finish to earn trophies and unlock new worlds."
       ],
       "stats": [
         {
@@ -141,186 +123,264 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Incremental Simulator"
         },
         {
           "label": "Visits",
-          "value": "12.6M+"
+          "value": "1.8M+"
         },
         {
           "label": "Favorites",
-          "value": "243K+"
+          "value": "284K+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Server Size",
+          "value": "10 Players"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Latest Update",
+          "value": "Oct 25, 2026"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Catch a Plane Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Eight focused Catch a Plane guides cover codes, your first runway run, upgrades, gear, world unlocks, practical tips, gear rankings, and the latest update.",
       "modules": [
         {
           "order": 1,
-          "name": "Catch a Plane Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
+          "name": "Catch a Plane Codes",
+          "description": "Find the gift code listed by the developer, redeem it on Roblox, and spend the reward on the upgrades that move your first runs forward.",
           "href": "/codes",
-          "displayType": "code-box",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "oiio10k",
+              "detail": "The gift code currently listed in the official Catch a Plane Roblox description"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Redeem",
+              "detail": "Open the shop or settings panel, enter the code in lowercase, and confirm"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Spend",
+              "detail": "Put the head start into grip training and your first glove tier"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide",
-          "displayType": "feature-cards",
+          "name": "Catch a Plane Beginner Guide",
+          "description": "Learn the core runway loop: watch plane timing, jump and grab, hold to the end of the route, train grip, upgrade gloves, and open gear boxes.",
+          "href": "/guide/catch-a-plane-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Watch a full takeoff cycle before jumping so you learn plane speed and spawn timing"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Practice the jump-and-grab on the slowest, lowest aircraft"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Hold on until the plane reaches the end of its path"
+            },
+            {
+              "label": "4",
+              "detail": "Spend your first earnings on grip training to extend every hold"
+            },
+            {
+              "label": "5",
+              "detail": "Save for glove upgrades once your grip can handle a full route"
+            },
+            {
+              "label": "6",
+              "detail": "Open your first gear box as soon as you can afford one"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/tier-list",
-          "displayType": "tier-grid",
+          "name": "Catch a Plane Upgrade Guide",
+          "description": "Build an upgrade order around the reason your runs end, from the first glove tiers and grip training to gear boxes and late-game stat pushes.",
+          "href": "/progression/catch-a-plane-upgrade-order",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Gloves",
+              "detail": "Buy the first two or three glove tiers after your first successful catch"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Grip",
+              "detail": "Train grip strength once light planes are easy to grab"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Gear Boxes",
+              "detail": "Open gear boxes after your first world unlock for recovery and air control"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Late Game",
+              "detail": "Pair late glove tiers with grip training when fast, heavy planes drain the meter"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/guide",
-          "displayType": "feature-cards",
+          "name": "Catch a Plane Gear Guide",
+          "description": "Compare the movement and survival tools found in gear boxes, including jetpacks, parachutes, and Gravity Wings.",
+          "href": "/mechanics/catch-a-plane-plane-upgrades",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Jetpacks",
+              "detail": "Add mid-flight mobility and a recovery burst after a missed grab"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Parachutes",
+              "detail": "Turn a high fall into a controlled descent so a long run still pays out"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Wings",
+              "detail": "Extend glide and air control to line up catches across wider gaps"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide",
-          "displayType": "feature-cards",
+          "name": "Catch a Plane Worlds and Unlocks",
+          "description": "Follow the path from early runway runs to new worlds: bank grip, upgrade gloves, collect gear, finish routes, and earn trophies.",
+          "href": "/progression/catch-a-plane-how-to-unlock-new-planes",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Farm small, slow planes until you can complete grabs consistently"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Put early currency into grip strength so rides last longer"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Buy the next glove tier to grab faster and heavier planes"
+            },
+            {
+              "label": "4",
+              "detail": "Open gear boxes for jetpacks and parachutes that keep runs alive"
+            },
+            {
+              "label": "5",
+              "detail": "Finish runs to earn trophies and unlock worlds with new aircraft"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/guide",
-          "displayType": "feature-cards",
+          "name": "Catch a Plane Tips and Tricks",
+          "description": "Use practical habits that protect long runs, match aircraft to your grip, and turn each session into faster glove and strength progress.",
+          "href": "/guide/catch-a-plane-tips-and-tricks",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Train",
+              "detail": "Build grip strength before a runway attempt so every catch lasts longer"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Match",
+              "detail": "Choose slow, low-flying planes until your glove tier can handle more weight"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Release",
+              "detail": "Let go deliberately before the grip meter empties to control your landing"
+            },
+            {
+              "label": "Save Tier",
+              "detail": "Bank currency for the next glove tier instead of spreading it across small upgrades"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Catch a Plane Gear Tier List",
+          "description": "Rank gloves and gear by the job they do, from the hard gates on plane weight to the tools that rescue a promising run.",
+          "href": "/progression/catch-a-plane-best-upgrades",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Gloves — grab speed and weight limits open faster, heavier aircraft"
+            },
+            {
+              "label": "A",
+              "detail": "Parachute — controlled descent protects a long run from a bad drop"
+            },
+            {
+              "label": "B",
+              "detail": "Jetpack — mid-flight mobility and recovery after a missed grab"
+            },
+            {
+              "label": "C",
+              "detail": "Gravity Wings — situational air control once grip can support longer hangs"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Catch a Plane Latest Updates",
+          "description": "Track the current [Upd 1] build, its October 25, 2026 update date, and the gear and progression changes that matter on the runway.",
+          "href": "/community/catch-a-plane-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Upd 1",
+              "detail": "The Roblox listing now names the experience Catch a Plane! [Upd 1]"
+            },
+            {
+              "label": "Oct 25",
+              "detail": "The latest update date shown on the official Roblox page is October 25, 2026"
+            },
+            {
+              "label": "Gear",
+              "detail": "Jetpacks, parachutes, and Gravity Wings remain the headline gear box rewards"
+            },
+            {
+              "label": "Finish",
+              "detail": "Reaching the finish still earns trophies that unlock new worlds"
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Catch a Plane.",
+      "title": "Catch a Plane FAQ",
+      "description": "Quick answers about the Catch a Plane loop, upgrades, codes, and world unlocks.",
       "items": [
         {
           "question": "What is Catch a Plane?",
-          "answer": "Catch a Plane is a free-to-play Roblox simulator where you jump to grab passing planes, hold on as long as possible, train your strength, upgrade gloves, collect gear, and reach the finish to unlock new worlds."
+          "answer": "Catch a Plane is a free-to-play Roblox incremental simulator from Oi_iO. You jump onto passing planes, hold on while your grip meter drains, train strength, upgrade gloves, open gear boxes, and reach the finish to unlock new worlds."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do you catch a plane in Catch a Plane?",
+          "answer": "Watch the runway for a full spawn cycle, jump as a plane passes, and latch on. Start with the slowest, lowest aircraft in Catch a Plane so you can hold for a complete route and build grip progress."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What should you upgrade first in Catch a Plane?",
+          "answer": "Train grip strength until you can hold easy planes for a full route, then buy the first glove tiers. Gloves in Catch a Plane control grab speed and plane weight, while strength determines how long you stay attached."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Does Catch a Plane have working codes?",
+          "answer": "Yes. The official Catch a Plane Roblox description lists oiio10k as a gift code. Enter it in lowercase in the shop, store, or settings panel and confirm the redemption."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do you unlock new worlds in Catch a Plane?",
+          "answer": "Reach the finish of a Catch a Plane run to earn trophies. Trophies unlock new worlds with different aircraft, layouts, and reward ceilings, so finish consistent runs whenever the route is within reach."
+        },
+        {
+          "question": "Is Catch a Plane free to play on Roblox?",
+          "answer": "Yes. Catch a Plane is free to play on Roblox, and you can launch it from the official game page with a Roblox account."
         }
       ]
     },
