@@ -2,7 +2,7 @@
 import { siteConfig } from "@/config/site";
 
 import Link from "next/link";
-import { ArrowRight, BookOpen, Boxes, ChevronRight, CircleHelp, Code2, Compass, Flame, Map as MapIcon, ScrollText, Shield, Skull, Swords, Trophy, Users, Zap, type LucideIcon } from "lucide-react";
+import { ArrowRight, BookOpen, Boxes, ChevronRight, CircleHelp, Code2, Compass, ExternalLink, Flame, Map as MapIcon, ScrollText, Shield, Skull, Swords, Trophy, Users, Zap, type LucideIcon } from "lucide-react";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -15,7 +15,7 @@ import en from "@/locales/en.json";
 type Home = typeof en.home;
 
 const icons: LucideIcon[] = [BookOpen, Shield, Compass, Boxes, Flame, Code2, Swords, MapIcon, Users, Trophy, Skull, Zap, CircleHelp, ScrollText];
-const YOUTUBE_VIDEO_ID = siteConfig.heroVideoId || "";
+const YOUTUBE_VIDEO_ID = siteConfig.heroVideoId || "aL1FDRtS7qQ";
 
 
 export default function HomePageClient({ home, locale, articles, recentArticles }: { home: Home; locale: string; articles: ContentItem[]; recentArticles: ContentItem[] }) {
@@ -32,6 +32,11 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
         </div>
         <p className="mx-auto mt-5 max-w-3xl text-base leading-relaxed text-muted-foreground">{home.hero.description}</p>
         <div className="mt-4 flex flex-wrap items-center justify-center gap-1.5">{home.hero.stats.map((stat) => <span key={stat} className="inline-flex items-center gap-1 rounded-full bg-muted px-2.5 py-0.5 text-xs font-medium text-muted-foreground">{stat}</span>)}</div>
+        <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
+          <Button asChild size="lg"><Link href={siteConfig.gameUrl || "#"} target="_blank" rel="noopener noreferrer">{home.hero.primaryCta}<ExternalLink className="ml-2 h-4 w-4" /></Link></Button>
+          <Button asChild size="lg" variant="outline"><Link href={localizeHref("/guide", locale)}>{home.hero.secondaryCta}</Link></Button>
+          <Button asChild size="lg" variant="outline"><Link href={localizeHref("/codes", locale)}>{home.hero.tertiaryCta}</Link></Button>
+        </div>
       </section>
 
       {YOUTUBE_VIDEO_ID && (

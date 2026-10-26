@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "name": "Catch a Plane Wiki",
+    "shortName": "Catch a Plane",
+    "tagline": "Plane-Catching Guides, Gloves & Gear",
+    "description": "Your ultimate Catch a Plane guide on Roblox! Learn plane-catching strategies, glove and gear upgrades, strength training, and progression tips.",
+    "legalNotice": "Non-official fan wiki. Catch a Plane is a Roblox game by Oi_iO; this site is not affiliated with Oi_iO or Roblox."
   },
   "nav": {
     "races": "Races",
@@ -26,23 +26,23 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Catch a Plane Wiki - Codes, Guide & Gear",
+      "description": "Explore Catch a Plane codes, beginner tips, glove upgrades, gear, plane-catching strategies, progression advice, and Roblox guides to reach the finish faster."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Roblox Plane Catching Simulator",
+      "title": "Catch a Plane Wiki",
+      "description": "Catch a Plane is a Roblox simulator where you grab passing planes, train your strength, upgrade gloves, collect powerful gear, and reach the finish to unlock new worlds.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "1.1M+ Total Visits",
+        "4.7K Peak CCU",
+        "Oct 7, 2026 Release Date",
+        "10 Server Size"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
+      "primaryCta": "Play on Roblox",
+      "secondaryCta": "Beginner Guide",
       "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "videoLabel": "Gameplay Preview"
     },
     "updates": {
       "title": "Latest Updates",
@@ -51,7 +51,7 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Catch a Plane Journey",
       "cards": [
         {
           "number": "1",
@@ -71,7 +71,7 @@
         {
           "number": "4",
           "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "description": "Learn the best methods and locations for extracting resources in Catch a Plane."
         }
       ]
     },
@@ -142,15 +142,15 @@
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Catch a Plane?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
+        "Catch a Plane is a Roblox simulator where you grab passing planes, train your strength, upgrade gloves, collect powerful gear, and reach the finish to unlock new worlds.",
         "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Oi_iO"
         },
         {
           "label": "Platform",
@@ -180,14 +180,14 @@
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
+      "title": "Explore Catch a Plane Wiki",
       "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
+          "name": "Catch a Plane Working Codes",
           "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
+          "href": "/codes",
           "displayType": "code-box",
           "highlights": [
             {
@@ -208,7 +208,7 @@
           "order": 2,
           "name": "Beginner Guide: How to Start & Serve Customers",
           "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
+          "href": "/guide",
           "displayType": "feature-cards",
           "highlights": [
             {
@@ -229,7 +229,7 @@
           "order": 3,
           "name": "Seafood & Fish Tier List",
           "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "href": "/tier-list",
           "displayType": "tier-grid",
           "highlights": [
             {
@@ -254,7 +254,7 @@
           "order": 4,
           "name": "Best Upgrades Progression",
           "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
+          "href": "/guide",
           "displayType": "feature-cards",
           "highlights": [
             {
@@ -275,7 +275,7 @@
           "order": 5,
           "name": "How to Get Cash Fast",
           "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
+          "href": "/guide",
           "displayType": "feature-cards",
           "highlights": [
             {
@@ -296,7 +296,7 @@
           "order": 6,
           "name": "Plot Expansion & Stand Customization",
           "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
+          "href": "/guide",
           "displayType": "feature-cards",
           "highlights": [
             {
@@ -317,11 +317,11 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about Catch a Plane.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Catch a Plane?",
+          "answer": "Catch a Plane is a free-to-play Roblox simulator where you jump to grab passing planes, hold on as long as possible, train your strength, upgrade gloves, collect gear, and reach the finish to unlock new worlds."
         },
         {
           "question": "Which race should beginners pick?",
@@ -342,20 +342,20 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Catch Your Next Plane?",
+      "description": "Jump, grab passing planes, train your strength, upgrade gloves and gear, and unlock new worlds with our Catch a Plane guides.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Play Catch a Plane on Roblox"
     }
   },
   "bosses": {
     "meta": {
-      "title": "Bosses — Complete Guide & Walkthrough | My Seafood Stand Wiki",
-      "description": "Complete boss guides for My Seafood Stand — all bosses from tutorial Gelum to endgame encounters with strategies, drops, and respawn timers."
+      "title": "Bosses — Complete Guide & Walkthrough | Catch a Plane Wiki",
+      "description": "Complete boss guides for Catch a Plane — all bosses from tutorial Gelum to endgame encounters with strategies, drops, and respawn timers."
     },
     "overviewTitle": "Bosses Overview",
-    "overviewDescription": "Complete guides for every boss encounter in My Seafood Stand 13 bosses from the tutorial knight Gelum to endgame encounters like the Gelid Dweller and Gauntlet challenges.",
-    "body": "Bosses in My Seafood Stand serve as skill gates and progression milestones. Some, like Gelum, teach you the combat fundamentals during the tutorial. Others, such as the Shikai Spirit and Resurreccion Spirit, are inner-world encounters tied directly to your race's power unlock. Area bosses like Dragonfly, King Croc, and Securis guard access to new zones and rewards. Recent additions include the Rogue Commander with his Minions, the ice-themed The Everfrosted, and four brand new endgame bosses: The Gelid Dweller, Cinder of the Broken Sky, Devourer of Hosts, and the Wandering Swordsman (Junichiro). Each boss has distinct attack patterns and telegraphed moves you need to learn. Use the guides below to prepare for every fight.",
+    "overviewDescription": "Complete guides for every boss encounter in Catch a Plane 13 bosses from the tutorial knight Gelum to endgame encounters like the Gelid Dweller and Gauntlet challenges.",
+    "body": "Bosses in Catch a Plane serve as skill gates and progression milestones. Some, like Gelum, teach you the combat fundamentals during the tutorial. Others, such as the Shikai Spirit and Resurreccion Spirit, are inner-world encounters tied directly to your race's power unlock. Area bosses like Dragonfly, King Croc, and Securis guard access to new zones and rewards. Recent additions include the Rogue Commander with his Minions, the ice-themed The Everfrosted, and four brand new endgame bosses: The Gelid Dweller, Cinder of the Broken Sky, Devourer of Hosts, and the Wandering Swordsman (Junichiro). Each boss has distinct attack patterns and telegraphed moves you need to learn. Use the guides below to prepare for every fight.",
     "guidesTitle": "Bosses Guides",
     "readMore": "Read more",
     "new": "New",
@@ -379,21 +379,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Catch a Plane Wiki",
+    "about": "Catch a Plane Wiki is an independent fan-built guide hub covering plane-catching strategies, glove and gear upgrades, strength training, codes, and progression tips for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "2026 Catch a Plane Wiki. Not affiliated with Oi_iO or Roblox.",
+    "description": "Roblox plane-catching simulator. Catch planes, train strength, upgrade gloves, and unlock new worlds.",
+    "playGame": "Play Catch a Plane on Roblox",
+    "officialDiscord": "Roblox Creator Community",
+    "officialYoutube": "Catch a Plane Gameplay Video",
+    "vvBuilder": "Catch a Plane Wiki",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Glove & Gear Guides",
+    "bossGuides": "Progression Guides",
+    "buildGuide": "Active Codes",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

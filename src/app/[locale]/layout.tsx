@@ -36,9 +36,17 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     },
     appleWebApp: { capable: true, title: "Catch a Plane Wiki", statusBarStyle: "default" },
     title: { default: "Catch a Plane Wiki", template: "%s" },
-    description: "Complete Catch a Plane fan wiki with codes, glove upgrades, gear, plane-catching strategies, and progression guides.",
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    description: siteConfig.description,
+    openGraph: {
+      type: "website",
+      locale,
+      url: `${siteUrl}/${locale}`,
+      siteName: siteConfig.name,
+      title: "Catch a Plane Wiki",
+      description: siteConfig.description,
+      images: [{ url: image, width: 768, height: 410, alt: "Catch a Plane Roblox gameplay preview" }],
+    },
+    twitter: { card: "summary_large_image", title: "Catch a Plane Wiki", description: siteConfig.description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -55,6 +63,8 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     url: siteUrl,
     logo: `${siteUrl}/android-chrome-512x512.png`,
     image: `${siteUrl}/images/hero.webp`,
+    description: siteConfig.description,
+    sameAs: [siteConfig.gameUrl, siteConfig.social?.community].filter(Boolean),
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
