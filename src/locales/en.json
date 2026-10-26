@@ -13,7 +13,9 @@
     "progression": "Progression",
     "items": "Items",
     "controls": "Controls",
-    "community": "Community"
+    "community": "Community",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
   },
   "home": {
     "meta": {
@@ -442,7 +444,51 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "readFullGuide": "Read Full Guide",
+    "tier": "Tier",
+    "gameplayPreview": "Catch a Plane gameplay preview",
+    "gameplayVideo": "Catch a Plane gameplay video",
+    "close": "Close",
+    "officialGiftCodeDetail": "Official gift code from the Catch a Plane game page"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The guide you are looking for may have moved or has not been added yet.",
+    "browseGuides": "Browse Guides"
+  },
+  "legal": {
+    "about": {
+      "title": "About",
+      "paragraphs": [
+        "Catch a Plane Wiki is an independent fan-built guide hub covering plane-catching strategies, glove and gear upgrades, strength training, codes, and progression tips for new and veteran players alike.",
+        "Catch a Plane is a Roblox simulator created by Oi_iO. This site is not affiliated with Oi_iO or Roblox, and all game details should be verified through the official game page."
+      ]
+    },
+    "privacyPolicy": {
+      "title": "Privacy Policy",
+      "paragraphs": [
+        "This fan wiki provides informational game guides for Catch a Plane, a Roblox experience created by Oi_iO. We do not request account credentials, Roblox passwords, or private payment information.",
+        "Basic analytics, advertising, and hosting providers may process standard technical information such as device type, browser, approximate region, and visited pages.",
+        "External links may lead to Roblox, the Oi_iO creator community, YouTube, or community tools. Those services are governed by their own privacy policies."
+      ]
+    },
+    "termsOfService": {
+      "title": "Terms of Service",
+      "paragraphs": [
+        "This site is an independent fan-made guide hub. Content is provided for informational and entertainment purposes only.",
+        "Game systems, codes, drops, and update details may change without notice. Always verify important information in-game or through official channels.",
+        "By using this site, you agree not to misuse it, attempt unauthorized access, or present this fan wiki as an official Catch a Plane, Oi_iO, or Roblox property."
+      ]
+    },
+    "copyright": {
+      "title": "Copyright",
+      "paragraphs": [
+        "Catch a Plane, Roblox, Oi_iO, game artwork, logos, and related media belong to their respective owners.",
+        "This site is an independent, non-official fan wiki created for informational and guide presentation purposes.",
+        "If you own rights to content displayed here and have a concern, please contact the site operator for review."
+      ]
+    }
   },
   "footer": {
     "aboutTitle": "Catch a Plane Wiki",

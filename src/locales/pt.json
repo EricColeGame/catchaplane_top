@@ -1,1 +1,512 @@
-{}
+{
+  "site": {
+    "name": "Catch a Plane Wiki",
+    "shortName": "Catch a Plane",
+    "tagline": "Guias de Catch a Plane: luvas, equipamentos e progressão",
+    "description": "Seu guia definitivo de Catch a Plane no Roblox. Aprenda estratégias para pegar aviões, melhorar luvas e equipamentos, treinar força e avançar mais rápido.",
+    "legalNotice": "Wiki de fãs não oficial. Catch a Plane é um jogo Roblox da Oi_iO; este site não é afiliado a Oi_iO ou Roblox."
+  },
+  "nav": {
+    "guide": "Guia",
+    "codes": "Códigos",
+    "mechanics": "Mecânicas",
+    "progression": "Progressão",
+    "items": "Itens",
+    "controls": "Controles",
+    "community": "Comunidade",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Catch a Plane Wiki: códigos, guia e equipamentos",
+      "description": "Explore os códigos de Catch a Plane, dicas para iniciantes, upgrades de luvas, equipamentos, estratégias para pegar aviões, conselhos de progressão e guias do Roblox para chegar ao final mais rápido."
+    },
+    "hero": {
+      "eyebrow": "Simulador de Catch a Plane no Roblox",
+      "title": "Catch a Plane Wiki",
+      "description": "Catch a Plane é um simulador Roblox onde você pega aviões que passam, treina sua força, atualiza luvas, coleta equipamentos poderosos e chega ao fim para desbloquear novos mundos.",
+      "stats": [
+        "Mais de 1,1 mi de visitas",
+        "Pico de 4,7 mil CCU",
+        "Lançamento: 7 de outubro de 2026",
+        "10 jogadores por servidor"
+      ],
+      "primaryCta": "Jogue em Roblox",
+      "secondaryCta": "Guia para iniciantes",
+      "tertiaryCta": "Códigos Ativos",
+      "videoLabel": "Antevisão da jogabilidade"
+    },
+    "updates": {
+      "title": "Últimas atualizações",
+      "browse": "Navegue por todos os guias",
+      "viewAll": "Ver tudo"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "Sua jornada em Catch a Plane",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para iniciantes",
+          "description": "Assista a um ciclo completo de decolagem, pratique na aeronave mais lenta e transforme suas primeiras manobras limpas em treinamento de pegada."
+        },
+        {
+          "number": "2",
+          "title": "Progressão mais rápida",
+          "description": "Siga o caminho de atualização que vai do treinamento de pegada aos níveis de luvas e caixas de equipamento sem desperdiçar corridas."
+        },
+        {
+          "number": "3",
+          "title": "Prioridade de atualização",
+          "description": "Aprenda quando comprar luvas, equipamentos de força ou caixas de equipamentos com base no motivo pelo qual suas corridas atuais estão terminando."
+        },
+        {
+          "number": "4",
+          "title": "Todos os códigos",
+          "description": "Resgate o código de presente oiio10k listado pelo desenvolvedor e saiba onde os novos códigos Catch a Plane aparecem primeiro."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Guias populares de Catch a Plane",
+      "quickLinks": [
+        "Guia para iniciantes",
+        "Ordem de upgrades",
+        "Melhores aviões",
+        "Códigos ativos"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para iniciantes",
+          "description": "Comece com o tempo de decolagem, agarramentos limpos, treinamento de pegada e as primeiras atualizações de luvas.",
+          "href": "/guide/catch-a-plane-beginner-guide"
+        },
+        {
+          "badge": "Atualização",
+          "title": "Códigos ativos",
+          "description": "Resgate o código de presente oiio10k listado pelo desenvolvedor e saiba onde novos códigos aparecem.",
+          "href": "/codes"
+        },
+        {
+          "badge": "Populares",
+          "title": "Ordem de upgrades",
+          "description": "Escolha luvas, força de preensão e caixas de equipamento na ordem que define sua corrida atual.",
+          "href": "/progression/catch-a-plane-upgrade-order"
+        },
+        {
+          "badge": "Populares",
+          "title": "Melhores aviões",
+          "description": "Combine o peso e a velocidade da aeronave com o seu nível de luvas, em vez de perseguir o maior jato.",
+          "href": "/items/catch-a-plane-best-planes"
+        },
+        {
+          "badge": "Mecânica",
+          "title": "Guia de Rebirth",
+          "description": "Saiba quando reiniciar, o que preparar e como reconstruir o ímpeto após um renascimento.",
+          "href": "/mechanics/catch-a-plane-rebirth-system"
+        },
+        {
+          "badge": "Atualizar",
+          "title": "Última atualização",
+          "description": "Veja o que mudou em [Upd 1] em 25 de outubro de 2026 e o que isso significa para sua próxima corrida.",
+          "href": "/community/catch-a-plane-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Catch a Plane?",
+      "paragraphs": [
+        "Catch a Plane é um simulador incremental Roblox da Oi_iO. Você corre por uma pista, pula em um avião que passa e se segura enquanto seu medidor de pegada se esgota; cada passeio concluído alimenta treinamento de força, atualizações de luvas, caixas de equipamento e troféus.",
+        "O ciclo é simples de aprender e profundo o suficiente para planejar. Treine a pegada para aguentar por mais tempo, melhore as luvas para agarrar aeronaves mais rápidas e pesadas, abra caixas de equipamento para jetpacks, paraquedas e Gravity Wings e, em seguida, chegue ao fim para ganhar troféus e desbloquear novos mundos."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedor",
+          "value": "Oi_iO"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Simulador Incremental"
+        },
+        {
+          "label": "Visitas",
+          "value": "1,8 milhão +"
+        },
+        {
+          "label": "Favoritos",
+          "value": "284K+"
+        },
+        {
+          "label": "Tamanho do servidor",
+          "value": "10 jogadores"
+        },
+        {
+          "label": "Última atualização",
+          "value": "25 de outubro de 2026"
+        }
+      ],
+      "cta": "Explore todos os guias"
+    },
+    "explore": {
+      "title": "Explorar Catch a Plane Wiki",
+      "description": "Oito guias Catch a Plane focados cobrem códigos, sua primeira corrida na pista, atualizações, equipamentos, desbloqueios mundiais, dicas práticas, classificações de equipamentos e a atualização mais recente.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos de Catch a Plane",
+          "description": "Encontre o código de presente listado pelo desenvolvedor, resgate-o no Roblox e gaste a recompensa nas atualizações que impulsionam suas primeiras corridas.",
+          "href": "/codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "oiio10k",
+              "detail": "O código de presente atualmente listado na descrição oficial de Catch a Plane Roblox"
+            },
+            {
+              "label": "Resgatar",
+              "detail": "Abra a loja ou painel de configurações, digite o código em letras minúsculas e confirme"
+            },
+            {
+              "label": "Gastar",
+              "detail": "Dê uma vantagem inicial ao treinamento de pegada e ao seu primeiro nível de luvas"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guia para iniciantes de Catch a Plane",
+          "description": "Aprenda o circuito principal da pista: observe o tempo do avião, pule e agarre, segure até o final da rota, treine a pegada, melhore as luvas e abra caixas de equipamento.",
+          "href": "/guide/catch-a-plane-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Assista a um ciclo completo de decolagem antes de saltar para aprender a velocidade do avião e o tempo de desova"
+            },
+            {
+              "label": "2",
+              "detail": "Pratique saltar e agarrar na aeronave mais lenta e mais baixa"
+            },
+            {
+              "label": "3",
+              "detail": "Espere até que o avião chegue ao fim do seu caminho"
+            },
+            {
+              "label": "4",
+              "detail": "Gaste seus primeiros ganhos em treinamento de pegada para estender cada pegada"
+            },
+            {
+              "label": "5",
+              "detail": "Economize para atualizações de luvas quando sua pegada puder lidar com um percurso completo"
+            },
+            {
+              "label": "6",
+              "detail": "Abra sua primeira caixa de equipamento assim que puder pagar por uma"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guia de upgrades de Catch a Plane",
+          "description": "Crie uma ordem de atualização em torno do motivo pelo qual suas corridas terminam, desde os primeiros níveis de luvas e treinamento de pegada até caixas de equipamento e aumento de estatísticas no final do jogo.",
+          "href": "/progression/catch-a-plane-upgrade-order",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Luvas",
+              "detail": "Compre os primeiros dois ou três níveis de luvas após sua primeira captura bem-sucedida"
+            },
+            {
+              "label": "Aperto",
+              "detail": "Treine a força de preensão quando aviões leves forem fáceis de agarrar"
+            },
+            {
+              "label": "Caixas de Engrenagens",
+              "detail": "Abra as caixas de equipamento após seu primeiro desbloqueio mundial para recuperação e controle aéreo"
+            },
+            {
+              "label": "Jogo tardio",
+              "detail": "Combine níveis tardios de luvas com treinamento de pegada quando aviões rápidos e pesados drenam o medidor"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guia de equipamentos de Catch a Plane",
+          "description": "Compare as ferramentas de movimento e sobrevivência encontradas nas caixas de equipamento, incluindo jetpacks, pára-quedas e Gravity Wings.",
+          "href": "/mechanics/catch-a-plane-plane-upgrades",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Mochilas a jato",
+              "detail": "Adicione mobilidade durante o voo e uma explosão de recuperação após uma captura perdida"
+            },
+            {
+              "label": "Pára-quedas",
+              "detail": "Transforme uma queda alta em uma descida controlada para que uma corrida longa ainda seja recompensada"
+            },
+            {
+              "label": "Asas",
+              "detail": "Estenda o planeio e o controle aéreo para alinhar as capturas em espaços maiores"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Mundos e desbloqueios de Catch a Plane",
+          "description": "Siga o caminho desde as primeiras corridas na pista até novos mundos: acumule pegada, atualize luvas, colete equipamentos, conclua rotas e ganhe troféus.",
+          "href": "/progression/catch-a-plane-how-to-unlock-new-planes",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Cultive aviões pequenos e lentos até conseguir completar capturas de forma consistente"
+            },
+            {
+              "label": "2",
+              "detail": "Coloque a moeda inicial na força de preensão para que as viagens durem mais"
+            },
+            {
+              "label": "3",
+              "detail": "Compre o próximo nível de luvas para pegar aviões mais rápidos e pesados"
+            },
+            {
+              "label": "4",
+              "detail": "Caixas de engrenagens abertas para jetpacks e pára-quedas que mantêm as corridas vivas"
+            },
+            {
+              "label": "5",
+              "detail": "Termine corridas para ganhar troféus e desbloquear mundos com novas aeronaves"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Dicas e truques de Catch a Plane",
+          "description": "Siga o caminho das primeiras corridas na pista até novos mundos: acumule pegada, melhore as luvas, colete equipamentos, conclua rotas e ganhe troféus.",
+          "href": "/guide/catch-a-plane-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Trem",
+              "detail": "Aumente a força de preensão antes de uma tentativa de pista para que cada pegada dure mais tempo"
+            },
+            {
+              "label": "Partida",
+              "detail": "Escolha aviões lentos e voando baixo até que sua camada de luvas possa suportar mais peso"
+            },
+            {
+              "label": "Liberar",
+              "detail": "Solte deliberadamente antes que o medidor de pegada esvazie para controlar sua aterrissagem"
+            },
+            {
+              "label": "Salvar nível",
+              "detail": "Moeda bancária para o próximo nível de luvas em vez de distribuí-la em pequenas atualizações"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Lista de níveis de equipamento de Catch a Plane",
+          "description": "Classifique as luvas e os equipamentos de acordo com o trabalho que realizam, desde os limites rígidos do peso do avião até as ferramentas que resgatam uma corrida promissora.",
+          "href": "/progression/catch-a-plane-best-upgrades",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Luvas – os limites de velocidade e peso abrem aeronaves mais rápidas e pesadas"
+            },
+            {
+              "label": "A",
+              "detail": "Pára-quedas – a descida controlada protege uma corrida longa contra uma queda violenta"
+            },
+            {
+              "label": "B",
+              "detail": "Jetpack – mobilidade durante o voo e recuperação após uma captura perdida"
+            },
+            {
+              "label": "C",
+              "detail": "Gravity Wings – controle aéreo situacional, uma vez que a empunhadura pode suportar travamentos mais longos"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Últimas atualizações de Catch a Plane",
+          "description": "Acompanhe a versão atual do [Upd 1], a data de atualização em 25 de outubro de 2026 e as mudanças de equipamento e progressão que são importantes na pista.",
+          "href": "/community/catch-a-plane-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Upd 1",
+              "detail": "A listagem Roblox agora nomeia a experiência como Catch a Plane! [Upd 1]"
+            },
+            {
+              "label": "25 out",
+              "detail": "A data de atualização mais recente mostrada na página oficial do Roblox é 25 de outubro de 2026"
+            },
+            {
+              "label": "Engrenagem",
+              "detail": "Jetpacks, pára-quedas e Gravity Wings continuam sendo as principais recompensas da caixa de equipamento"
+            },
+            {
+              "label": "Concluir",
+              "detail": "Chegar ao final ainda rende troféus que desbloqueiam novos mundos"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes de Catch a Plane",
+      "description": "Respostas rápidas sobre o loop Catch a Plane, atualizações, códigos e desbloqueios mundiais.",
+      "items": [
+        {
+          "question": "O que é Catch a Plane?",
+          "answer": "Catch a Plane é um simulador incremental Roblox gratuito da Oi_iO. Você pula em aviões que passam, segura enquanto seu medidor de pegada drena, treina força, atualiza luvas, abre caixas de equipamento e chega ao fim para desbloquear novos mundos."
+        },
+        {
+          "question": "Como você pega um avião em Catch a Plane?",
+          "answer": "Observe a pista por um ciclo completo de spawn, pule quando um avião passar e se segure. Comece com a aeronave mais lenta e mais baixa de Catch a Plane para manter uma rota completa e aumentar o progresso da pegada."
+        },
+        {
+          "question": "O que você deve atualizar primeiro em Catch a Plane?",
+          "answer": "Treine a força de preensão até conseguir segurar aviões fáceis durante um percurso completo e, em seguida, compre os primeiros níveis de luvas. As luvas em Catch a Plane controlam a velocidade de agarramento e o peso do avião, enquanto a força determina quanto tempo você permanece preso."
+        },
+        {
+          "question": "O Catch a Plane tem códigos ativos?",
+          "answer": "Sim. A descrição oficial de Catch a Plane no Roblox lista oiio10k como código de presente. Digite-o em minúsculas na loja ou no painel de configurações e confirme o resgate."
+        },
+        {
+          "question": "Como você desbloqueia novos mundos em Catch a Plane?",
+          "answer": "Chegue ao fim de uma corrida de Catch a Plane para ganhar troféus. Os troféus desbloqueiam novos mundos com aeronaves, layouts e limites de recompensa diferentes, então conclua corridas consistentes quando a rota estiver ao seu alcance."
+        },
+        {
+          "question": "O Catch a Plane é gratuito no Roblox?",
+          "answer": "Sim. Catch a Plane é gratuito para jogar em Roblox e você pode iniciá-lo na página oficial do jogo com uma conta Roblox."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para pegar seu próximo avião?",
+      "description": "Salte, agarre aviões que passam, treine sua força, atualize luvas e equipamentos e desbloqueie novos mundos com nossos guias Catch a Plane.",
+      "primary": "Leia o guia para iniciantes",
+      "secondary": "Jogue Catch a Plane em Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guia de Catch a Plane: dicas e progressão",
+    "overviewDescription": "Explore os guias de Catch a Plane sobre a primeira pegada, treinamento de pegada, upgrades de luvas, caixas de equipamento, rotas de dinheiro e o caminho mais rápido até o final."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Catch a Plane: recompensas ativas e resgate",
+    "overviewDescription": "Encontre os códigos Catch a Plane mais recentes, saiba onde novas recompensas aparecem e siga as etapas de resgate de brindes."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de Catch a Plane: pegada, upgrades e rebirth",
+    "overviewDescription": "Entenda a mecânica de pegada do Catch a Plane, atualizações de danos, treinamento, renascimento, captura de avião e os sistemas que levam suas corridas mais longe."
+  },
+  "progression": {
+    "overviewTitle": "Progressão de Catch a Plane: upgrades e desbloqueios",
+    "overviewDescription": "Planeje sua progressão no Catch a Plane com prioridades de atualização, rotas mais rápidas, desbloqueio de novos aviões e decisões de gastos eficientes."
+  },
+  "items": {
+    "overviewTitle": "Aviões e itens de Catch a Plane: gear e raridades",
+    "overviewDescription": "Compare tipos de aviões Catch a Plane, aviões raros, aviões mais fortes, luvas e equipamentos para saber o que perseguir em seguida."
+  },
+  "controls": {
+    "overviewTitle": "Controles de Catch a Plane: PC, celular e movimento avançado",
+    "overviewDescription": "Aprenda os controles do Catch a Plane para PC e dispositivos móveis, incluindo agarrar, voar, movimento da câmera e técnicas avançadas de captura de avião."
+  },
+  "community": {
+    "overviewTitle": "Comunidade de Catch a Plane: Discord e novidades",
+    "overviewDescription": "Siga as atualizações da comunidade Catch a Plane, vídeos de jogos, discussões sobre Discord, postagens sobre Reddit e notícias sobre novos aviões."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação Wiki",
+    "activeCodes": "Códigos Ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogue em Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximas etapas",
+    "needHelp": "Precisa de ajuda?",
+    "relatedReading": "Leitura Relacionada",
+    "relatedGuides": "Guias Relacionados",
+    "readMore": "Leia mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Página inicial",
+    "noGuidesAvailable": "Nenhum guia disponível ainda. Volte em breve!",
+    "readFullGuide": "Leia o guia completo",
+    "tier": "Nível",
+    "gameplayPreview": "Antevisão do jogo Catch a Plane",
+    "gameplayVideo": "Vídeo de jogo de Catch a Plane",
+    "close": "Fechar",
+    "officialGiftCodeDetail": "Código de presente oficial da página de Catch a Plane"
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "description": "O guia que você procura pode ter sido movido ou ainda não foi adicionado.",
+    "browseGuides": "Navegar nos guias"
+  },
+  "legal": {
+    "about": {
+      "title": "Sobre",
+      "paragraphs": [
+        "Catch a Plane Wiki é um centro de guia independente criado por fãs que cobre estratégias de captura de aviões, atualizações de luvas e equipamentos, treinamento de força, códigos e dicas de progressão para jogadores novos e veteranos.",
+        "Catch a Plane é um simulador Roblox criado por Oi_iO. Este site não é afiliado a Oi_iO ou Roblox, e todos os detalhes do jogo devem ser verificados através da página oficial do jogo."
+      ]
+    },
+    "privacyPolicy": {
+      "title": "Política de privacidade",
+      "paragraphs": [
+        "Este fan wiki fornece guias de jogos informativos para Catch a Plane, uma experiência Roblox criada por Oi_iO. Não solicitamos credenciais de conta, senhas Roblox ou informações privadas de pagamento.",
+        "Provedores básicos de análise, publicidade e hospedagem podem processar informações técnicas padrão, como tipo de dispositivo, navegador, região aproximada e páginas visitadas.",
+        "Links externos podem levar a Roblox, à comunidade de criadores Oi_iO, YouTube ou ferramentas da comunidade. Esses serviços são regidos pelas suas próprias políticas de privacidade."
+      ]
+    },
+    "termsOfService": {
+      "title": "Termos de serviço",
+      "paragraphs": [
+        "Este site é um centro de guia independente feito por fãs. O conteúdo é fornecido apenas para fins informativos e de entretenimento.",
+        "Os sistemas de jogo, códigos, itens descartados e detalhes de atualização podem mudar sem aviso prévio. Sempre verifique informações importantes no jogo ou através dos canais oficiais.",
+        "Ao usar este site, você concorda em não usá-lo indevidamente, tentar acesso não autorizado ou apresentar este fan wiki como uma propriedade oficial de Catch a Plane, Oi_iO ou Roblox."
+      ]
+    },
+    "copyright": {
+      "title": "Direitos autorais",
+      "paragraphs": [
+        "Catch a Plane, Roblox, Oi_iO, arte do jogo, logotipos e mídia relacionada pertencem aos seus respectivos proprietários.",
+        "Este site é um fanwiki independente e não oficial, criado para fins informativos e de apresentação de guia.",
+        "Se você possui direitos sobre o conteúdo exibido aqui e tem alguma dúvida, entre em contato com o operador do site para análise."
+      ]
+    }
+  },
+  "footer": {
+    "aboutTitle": "Catch a Plane Wiki",
+    "about": "Catch a Plane Wiki é um centro de guia independente criado por fãs que cobre estratégias de captura de aviões, atualizações de luvas e equipamentos, treinamento de força, códigos e dicas de progressão para jogadores novos e veteranos.",
+    "quickLinks": "Links rápidos",
+    "guides": "Guias",
+    "legal": "Jurídico",
+    "copyright": "2026 Catch a Plane Wiki. Sem afiliação com Oi_iO ou Roblox.",
+    "description": "Simulador de captura de avião Roblox. Pegue aviões, treine força, atualize luvas e desbloqueie novos mundos.",
+    "playGame": "Jogue Catch a Plane em Roblox",
+    "officialDiscord": "Comunidade de criadores do Roblox",
+    "officialYoutube": "Vídeo de jogo Catch a Plane",
+    "vvBuilder": "Catch a Plane Wiki",
+    "beginnerGuide": "Guia para iniciantes",
+    "raceGuides": "Guias de luvas e equipamentos",
+    "bossGuides": "Guias de progressão",
+    "buildGuide": "Códigos Ativos",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço"
+  }
+}

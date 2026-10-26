@@ -1,1 +1,512 @@
-{}
+{
+  "site": {
+    "name": "Catch a Plane Wiki",
+    "shortName": "Catch a Plane",
+    "tagline": "Panduan Catch a Plane: Sarung Tangan, Perlengkapan & Progresi",
+    "description": "Panduan Catch a Plane terlengkap di Roblox. Pelajari strategi menangkap pesawat, upgrade sarung tangan dan perlengkapan, latihan kekuatan, serta progresi yang lebih cepat.",
+    "legalNotice": "Wiki penggemar tidak resmi. Catch a Plane adalah game Roblox oleh Oi_iO; situs ini tidak berafiliasi dengan Oi_iO atau Roblox."
+  },
+  "nav": {
+    "guide": "Panduan",
+    "codes": "Kode",
+    "mechanics": "Mekanik",
+    "progression": "Progresi",
+    "items": "Item",
+    "controls": "Kontrol",
+    "community": "Komunitas",
+    "menu": "Menu",
+    "toggleTheme": "Ubah tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Catch a Plane Wiki: Kode, Panduan & Perlengkapan",
+      "description": "Jelajahi kode Catch a Plane, tip pemula, peningkatan sarung tangan, perlengkapan, strategi menangkap pesawat, saran perkembangan, dan panduan Roblox untuk mencapai tujuan lebih cepat."
+    },
+    "hero": {
+      "eyebrow": "Simulator Catch a Plane di Roblox",
+      "title": "Catch a Plane Wiki",
+      "description": "Catch a Plane adalah simulator Roblox tempat Anda mengambil pesawat yang lewat, melatih kekuatan Anda, meningkatkan sarung tangan, mengumpulkan perlengkapan yang kuat, dan mencapai garis akhir untuk membuka dunia baru.",
+      "stats": [
+        "Lebih dari 1,1 jt kunjungan",
+        "Puncak 4,7 rb CCU",
+        "Rilis 7 Oktober 2026",
+        "10 pemain per server"
+      ],
+      "primaryCta": "Mainkan di Roblox",
+      "secondaryCta": "Panduan Pemula",
+      "tertiaryCta": "Kode Aktif",
+      "videoLabel": "Pratinjau Permainan"
+    },
+    "updates": {
+      "title": "Pembaruan Terbaru",
+      "browse": "Telusuri Semua Panduan",
+      "viewAll": "Lihat Semua"
+    },
+    "start": {
+      "eyebrow": "Mulai Disini",
+      "title": "Perjalanan Catch a Plane Kamu",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Panduan Pemula",
+          "description": "Saksikan siklus lepas landas penuh, berlatihlah di pesawat paling lambat, dan ubah pegangan bersih pertama Anda menjadi latihan genggaman."
+        },
+        {
+          "number": "2",
+          "title": "Kemajuan Tercepat",
+          "description": "Ikuti jalur peningkatan yang beralih dari pelatihan cengkeraman ke tingkatan sarung tangan dan kotak gear tanpa membuang-buang waktu berlari."
+        },
+        {
+          "number": "3",
+          "title": "Peningkatan Prioritas",
+          "description": "Pelajari kapan harus membeli sarung tangan, kekuatan, atau kotak perlengkapan berdasarkan alasan lari Anda saat ini berakhir."
+        },
+        {
+          "number": "4",
+          "title": "Semua Kode",
+          "description": "Tukarkan kode hadiah oiio10k yang terdaftar di pengembang dan pelajari di mana kode Catch a Plane baru muncul pertama kali."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Halaman Populer",
+      "title": "Panduan Catch a Plane yang Populer",
+      "quickLinks": [
+        "Panduan Pemula",
+        "Urutan Upgrade",
+        "Pesawat Terbaik",
+        "Kode Aktif"
+      ],
+      "cards": [
+        {
+          "badge": "Pemula",
+          "title": "Panduan Pemula",
+          "description": "Mulailah dengan waktu lepas landas, genggaman bersih, latihan genggaman, dan peningkatan sarung tangan pertama.",
+          "href": "/guide/catch-a-plane-beginner-guide"
+        },
+        {
+          "badge": "Diperbarui",
+          "title": "Kode Aktif",
+          "description": "Tukarkan kode hadiah oiio10k yang terdaftar oleh pengembang dan ketahui di mana kode baru muncul.",
+          "href": "/codes"
+        },
+        {
+          "badge": "Populer",
+          "title": "Urutan Upgrade",
+          "description": "Pilih sarung tangan, kekuatan genggaman, dan gear box sesuai urutan lari Anda saat ini.",
+          "href": "/progression/catch-a-plane-upgrade-order"
+        },
+        {
+          "badge": "Populer",
+          "title": "Pesawat Terbaik",
+          "description": "Sesuaikan berat dan kecepatan pesawat dengan tingkat sarung tangan Anda alih-alih mengejar jet terbesar.",
+          "href": "/items/catch-a-plane-best-planes"
+        },
+        {
+          "badge": "Mekanika",
+          "title": "Panduan Rebirth",
+          "description": "Ketahui kapan harus mengatur ulang, apa yang harus dipersiapkan, dan bagaimana membangun kembali momentum setelah kelahiran kembali.",
+          "href": "/mechanics/catch-a-plane-rebirth-system"
+        },
+        {
+          "badge": "Pembaruan",
+          "title": "Update Terbaru",
+          "description": "Lihat apa yang berubah di [Upd 1] pada tanggal 25 Oktober 2026 dan apa pengaruhnya bagi putaran Anda selanjutnya.",
+          "href": "/community/catch-a-plane-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Apa Itu Catch a Plane?",
+      "paragraphs": [
+        "Catch a Plane adalah simulator incremental Roblox dari Oi_iO. Anda berlari di landasan pacu, melompat ke pesawat yang lewat, dan bertahan sementara meteran cengkeraman Anda terkuras; setiap perjalanan yang diselesaikan memberikan latihan kekuatan, peningkatan sarung tangan, kotak perlengkapan, dan piala.",
+        "Lingkaran ini mudah dipelajari dan cukup dalam untuk direncanakan. Latih cengkeraman untuk bertahan lebih lama, tingkatkan sarung tangan untuk meraih pesawat yang lebih cepat dan lebih berat, buka kotak perlengkapan untuk jetpack, parasut, dan Gravity Wings, lalu capai garis akhir untuk mendapatkan piala dan membuka dunia baru."
+      ],
+      "stats": [
+        {
+          "label": "Pengembang",
+          "value": "Oi_iO"
+        },
+        {
+          "label": "Peron",
+          "value": "Roblox"
+        },
+        {
+          "label": "Aliran",
+          "value": "Simulator Tambahan"
+        },
+        {
+          "label": "Kunjungan",
+          "value": "1,8 juta+"
+        },
+        {
+          "label": "Favorit",
+          "value": "284K+"
+        },
+        {
+          "label": "Ukuran Server",
+          "value": "10 Pemain"
+        },
+        {
+          "label": "Pembaruan Terbaru",
+          "value": "25 Oktober 2026"
+        }
+      ],
+      "cta": "Jelajahi Semua Panduan"
+    },
+    "explore": {
+      "title": "Jelajahi Catch a Plane Wiki",
+      "description": "Delapan panduan Catch a Plane yang terfokus mencakup kode, runway run pertama Anda, peningkatan, perlengkapan, pembukaan dunia, tip praktis, peringkat perlengkapan, dan pembaruan terkini.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Kode Catch a Plane",
+          "description": "Temukan kode hadiah yang dicantumkan oleh pengembang, tukarkan di Roblox, dan belanjakan hadiahnya untuk peningkatan yang memajukan proses pertama Anda.",
+          "href": "/codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "oiio10k",
+              "detail": "Kode hadiah saat ini tercantum dalam deskripsi resmi Catch a Plane Roblox"
+            },
+            {
+              "label": "Tebus",
+              "detail": "Buka panel toko atau pengaturan, masukkan kode dalam huruf kecil, dan konfirmasi"
+            },
+            {
+              "label": "Menghabiskan",
+              "detail": "Mulailah dari awal dalam pelatihan genggaman dan tingkat sarung tangan pertama Anda"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Panduan Pemula Catch a Plane",
+          "description": "Pelajari putaran landasan pacu inti: perhatikan waktu pesawat, lompat dan ambil, bertahan hingga akhir rute, latih pegangan, perbarui sarung tangan, dan buka kotak gear.",
+          "href": "/guide/catch-a-plane-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Tonton siklus lepas landas penuh sebelum melompat sehingga Anda mempelajari kecepatan pesawat dan waktu bertelur"
+            },
+            {
+              "label": "2",
+              "detail": "Latihlah lompat-dan-ambil pada pesawat yang paling lambat dan paling rendah"
+            },
+            {
+              "label": "3",
+              "detail": "Tunggu sampai pesawat mencapai ujung jalurnya"
+            },
+            {
+              "label": "4",
+              "detail": "Habiskan penghasilan pertama Anda untuk pelatihan genggaman untuk memperpanjang setiap pegangan"
+            },
+            {
+              "label": "5",
+              "detail": "Simpan untuk peningkatan sarung tangan setelah genggaman Anda dapat menangani rute penuh"
+            },
+            {
+              "label": "6",
+              "detail": "Buka gear box pertama Anda segera setelah Anda mampu membelinya"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Panduan Upgrade Catch a Plane",
+          "description": "Buatlah urutan peningkatan berdasarkan alasan berakhirnya lari Anda, mulai dari tingkatan sarung tangan pertama dan pelatihan pegangan hingga gear box dan peningkatan stat di akhir permainan.",
+          "href": "/progression/catch-a-plane-upgrade-order",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Sarung tangan",
+              "detail": "Belilah dua atau tiga tingkatan sarung tangan pertama setelah tangkapan pertama Anda berhasil"
+            },
+            {
+              "label": "Pegangan",
+              "detail": "Latih kekuatan cengkeraman setelah pesawat ringan mudah digenggam"
+            },
+            {
+              "label": "Kotak Perlengkapan",
+              "detail": "Buka gear box setelah dunia pertama Anda terbuka untuk pemulihan dan kontrol udara"
+            },
+            {
+              "label": "Permainan Terlambat",
+              "detail": "Pasangkan tingkatan sarung tangan akhir dengan latihan genggaman saat pesawat yang cepat dan berat menguras meteran"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Panduan Gear Catch a Plane",
+          "description": "Bandingkan alat pergerakan dan bertahan hidup yang terdapat di gear box, termasuk jetpack, parasut, dan Gravity Wings.",
+          "href": "/mechanics/catch-a-plane-plane-upgrades",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "jetpack",
+              "detail": "Tambahkan mobilitas di tengah penerbangan dan ledakan pemulihan setelah tangkapan yang gagal"
+            },
+            {
+              "label": "Parasut",
+              "detail": "Ubah penurunan yang tinggi menjadi penurunan yang terkendali sehingga jangka panjang tetap membuahkan hasil"
+            },
+            {
+              "label": "Sayap",
+              "detail": "Perluas kendali luncuran dan udara untuk mengatur tangkapan di celah yang lebih luas"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Dunia dan Unlock Catch a Plane",
+          "description": "Ikuti jalur dari landasan pacu awal ke dunia baru: kumpulkan grip, tingkatkan sarung tangan, kumpulkan perlengkapan, selesaikan rute, dan dapatkan piala.",
+          "href": "/progression/catch-a-plane-how-to-unlock-new-planes",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Bertani pesawat kecil dan lambat hingga Anda dapat menyelesaikan pengambilan secara konsisten"
+            },
+            {
+              "label": "2",
+              "detail": "Masukkan mata uang awal ke dalam kekuatan cengkeraman sehingga perjalanan dapat bertahan lebih lama"
+            },
+            {
+              "label": "3",
+              "detail": "Beli tingkat sarung tangan berikutnya untuk mengambil pesawat yang lebih cepat dan lebih berat"
+            },
+            {
+              "label": "4",
+              "detail": "Buka gear box untuk jetpack dan parasut agar tetap berjalan"
+            },
+            {
+              "label": "5",
+              "detail": "Selesaikan lari untuk mendapatkan piala dan membuka dunia dengan pesawat baru"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Tips dan Trik Catch a Plane",
+          "description": "Gunakan kebiasaan praktis yang melindungi jangka panjang, sesuaikan pesawat dengan genggaman Anda, dan ubah setiap sesi menjadi kemajuan sarung tangan dan kekuatan yang lebih cepat.",
+          "href": "/guide/catch-a-plane-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kereta api",
+              "detail": "Bangun kekuatan genggaman sebelum melakukan percobaan runway sehingga setiap tangkapan dapat bertahan lebih lama"
+            },
+            {
+              "label": "Cocok",
+              "detail": "Pilih pesawat yang lambat dan terbang rendah hingga tingkat sarung tangan Anda dapat menahan lebih banyak beban"
+            },
+            {
+              "label": "Lepaskan",
+              "detail": "Lepaskan dengan sengaja sebelum meteran pegangan kosong untuk mengontrol pendaratan Anda"
+            },
+            {
+              "label": "Simpan Tingkat",
+              "detail": "Simpan mata uang untuk tingkat sarung tangan berikutnya alih-alih menyebarkannya ke peningkatan kecil"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Tier List Gear Catch a Plane",
+          "description": "Urutkan sarung tangan dan perlengkapan berdasarkan pekerjaan yang mereka lakukan, mulai dari gerbang keras pada beban pesawat hingga peralatan yang menyelamatkan lari yang menjanjikan.",
+          "href": "/progression/catch-a-plane-best-upgrades",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Sarung tangan — batas kecepatan dan berat pegangan terbuka pada pesawat yang lebih cepat dan lebih berat"
+            },
+            {
+              "label": "A",
+              "detail": "Parasut — Keturunan terkendali melindungi jangka panjang dari kejatuhan yang buruk"
+            },
+            {
+              "label": "B",
+              "detail": "Jetpack — mobilitas dan pemulihan di tengah penerbangan setelah terjadi kesalahan pengambilan"
+            },
+            {
+              "label": "C",
+              "detail": "Gravity Wings — kontrol udara situasional setelah genggaman dapat mendukung hang yang lebih lama"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Update Terbaru Catch a Plane",
+          "description": "Pantau build [Upd 1] saat ini, tanggal pembaruan 25 Oktober 2026, serta perubahan gear dan progresi yang penting di landasan.",
+          "href": "/community/catch-a-plane-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Upd 1",
+              "detail": "Daftar Roblox sekarang menamai pengalaman tersebut Catch a Plane! [Upd 1]"
+            },
+            {
+              "label": "25 Okt",
+              "detail": "Tanggal update terbaru yang tertera pada halaman resmi Roblox adalah 25 Oktober 2026"
+            },
+            {
+              "label": "Perlengkapan",
+              "detail": "Jetpack, parasut, dan Gravity Wings tetap menjadi hadiah utama gear box"
+            },
+            {
+              "label": "Selesai",
+              "detail": "Mencapai garis finish masih menghasilkan piala yang membuka dunia baru"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ Catch a Plane",
+      "description": "Jawaban cepat tentang loop Catch a Plane, peningkatan, kode, dan pembukaan kunci dunia.",
+      "items": [
+        {
+          "question": "Apa itu Catch a Plane?",
+          "answer": "Catch a Plane adalah simulator incremental Roblox gratis dari Oi_iO. Kamu melompat ke pesawat yang lewat, bertahan saat meteran grip terkuras, melatih kekuatan, meningkatkan sarung tangan, membuka kotak gear, dan mencapai garis finis untuk membuka dunia baru."
+        },
+        {
+          "question": "Bagaimana cara menangkap pesawat di Catch a Plane?",
+          "answer": "Perhatikan landasan pacu selama satu siklus spawn penuh, lompat saat pesawat lewat, dan bergantunglah. Mulai dari pesawat paling lambat dan rendah di Catch a Plane agar kamu bisa bertahan sepanjang rute dan membangun progres grip."
+        },
+        {
+          "question": "Apa yang harus Anda tingkatkan terlebih dahulu di Catch a Plane?",
+          "answer": "Latih kekuatan grip sampai kamu bisa memegang pesawat ringan sepanjang rute, lalu beli tier sarung tangan pertama. Sarung tangan di Catch a Plane mengatur kecepatan tangkap dan berat pesawat, sedangkan kekuatan menentukan berapa lama kamu bisa bertahan."
+        },
+        {
+          "question": "Apakah Catch a Plane punya kode aktif?",
+          "answer": "Ya. Deskripsi resmi Catch a Plane di Roblox mencantumkan oiio10k sebagai kode hadiah. Masukkan kode itu dalam huruf kecil di toko atau panel pengaturan, lalu konfirmasi penukarannya."
+        },
+        {
+          "question": "Bagaimana cara membuka dunia baru di Catch a Plane?",
+          "answer": "Capai garis finis dalam satu run Catch a Plane untuk mendapatkan trofi. Trofi membuka dunia baru dengan pesawat, tata letak, dan batas hadiah berbeda, jadi selesaikan run secara konsisten saat rutenya sudah terjangkau."
+        },
+        {
+          "question": "Apakah Catch a Plane gratis dimainkan di Roblox?",
+          "answer": "Ya. Catch a Plane gratis dimainkan di Roblox, dan Anda dapat meluncurkannya dari halaman game resmi dengan akun Roblox."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Siap Naik Pesawat Anda Berikutnya?",
+      "description": "Lompat, ambil pesawat yang lewat, latih kekuatan Anda, tingkatkan sarung tangan dan perlengkapan, dan buka dunia baru dengan panduan Catch a Plane kami.",
+      "primary": "Baca Panduan Pemula",
+      "secondary": "Mainkan Catch a Plane di Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Panduan Catch a Plane: Tips Pemula dan Progresi",
+    "overviewDescription": "Jelajahi panduan Catch a Plane yang mencakup pengambilan pertama Anda, pelatihan pegangan, peningkatan sarung tangan, kotak perlengkapan, rute uang, dan cara tercepat untuk mencapai garis akhir."
+  },
+  "codes": {
+    "overviewTitle": "Kode Catch a Plane: Hadiah Aktif dan Cara Menukarkan",
+    "overviewDescription": "Temukan kode Catch a Plane terbaru, pelajari di mana hadiah baru muncul, dan ikuti langkah-langkah penukaran hadiah gratis."
+  },
+  "mechanics": {
+    "overviewTitle": "Mekanik Catch a Plane: Grip, Upgrade, dan Rebirth",
+    "overviewDescription": "Pahami mekanisme cengkeraman Catch a Plane, peningkatan kerusakan, pelatihan, kelahiran kembali, penangkapan pesawat, dan sistem yang mendorong lari Anda lebih jauh."
+  },
+  "progression": {
+    "overviewTitle": "Progresi Catch a Plane: Urutan Upgrade dan Unlock",
+    "overviewDescription": "Rencanakan perkembangan Catch a Plane Anda dengan prioritas peningkatan, rute lebih cepat, pembukaan kunci pesawat baru, dan keputusan pengeluaran yang efisien."
+  },
+  "items": {
+    "overviewTitle": "Pesawat dan Item Catch a Plane: Gear dan Rarity",
+    "overviewDescription": "Bandingkan jenis pesawat Catch a Plane, pesawat langka, pesawat terkuat, sarung tangan, dan perlengkapan sehingga Anda tahu apa yang harus dikejar selanjutnya."
+  },
+  "controls": {
+    "overviewTitle": "Kontrol Catch a Plane: PC, Mobile, dan Gerakan Lanjutan",
+    "overviewDescription": "Pelajari kontrol Catch a Plane untuk PC dan seluler, termasuk meraih, terbang, pergerakan kamera, dan teknik menangkap pesawat tingkat lanjut."
+  },
+  "community": {
+    "overviewTitle": "Komunitas Catch a Plane: Update, Discord, dan Gameplay",
+    "overviewDescription": "Ikuti pembaruan komunitas Catch a Plane, video gameplay, diskusi Discord, postingan Reddit, dan berita tentang pesawat baru."
+  },
+  "shared": {
+    "wikiNavigation": "Navigasi Wiki",
+    "activeCodes": "Kode Aktif",
+    "updated": "Diperbarui",
+    "viewAllCodes": "Lihat semua kode",
+    "playOnRoblox": "Mainkan di Roblox",
+    "inThisSection": "Di bagian ini",
+    "tableOfContents": "Daftar Isi",
+    "nextSteps": "Langkah Selanjutnya",
+    "needHelp": "Butuh Bantuan?",
+    "relatedReading": "Bacaan Terkait",
+    "relatedGuides": "Panduan Terkait",
+    "readMore": "Baca lebih lanjut",
+    "officialMedia": "Media resmi",
+    "home": "Rumah",
+    "noGuidesAvailable": "Belum ada panduan yang tersedia. Segera periksa kembali!",
+    "readFullGuide": "Baca Panduan Lengkap",
+    "tier": "Tingkat",
+    "gameplayPreview": "Pratinjau permainan Catch a Plane",
+    "gameplayVideo": "Video permainan Catch a Plane",
+    "close": "Tutup",
+    "officialGiftCodeDetail": "Kode hadiah resmi dari halaman game Catch a Plane"
+  },
+  "notFound": {
+    "title": "Halaman tidak ditemukan",
+    "description": "Panduan yang Anda cari mungkin sudah pindah atau belum ditambahkan.",
+    "browseGuides": "Telusuri Panduan"
+  },
+  "legal": {
+    "about": {
+      "title": "Tentang",
+      "paragraphs": [
+        "Catch a Plane Wiki adalah pusat panduan independen yang dibuat oleh penggemar yang mencakup strategi menangkap pesawat, peningkatan sarung tangan dan perlengkapan, latihan kekuatan, kode, dan tip perkembangan untuk pemain baru dan veteran.",
+        "Catch a Plane adalah simulator Roblox yang dibuat oleh Oi_iO. Situs ini tidak berafiliasi dengan Oi_iO atau Roblox, dan semua detail game harus diverifikasi melalui halaman game resmi."
+      ]
+    },
+    "privacyPolicy": {
+      "title": "Kebijakan Privasi",
+      "paragraphs": [
+        "Wiki penggemar ini menyediakan panduan permainan informasi untuk Catch a Plane, pengalaman Roblox yang dibuat oleh Oi_iO. Kami tidak meminta kredensial akun, kata sandi Roblox, atau informasi pembayaran pribadi.",
+        "Penyedia analisis dasar, periklanan, dan hosting dapat memproses informasi teknis standar seperti jenis perangkat, browser, perkiraan wilayah, dan halaman yang dikunjungi.",
+        "Tautan eksternal dapat mengarah ke Roblox, komunitas pembuat Oi_iO, YouTube, atau alat komunitas. Layanan tersebut diatur oleh kebijakan privasi mereka sendiri."
+      ]
+    },
+    "termsOfService": {
+      "title": "Ketentuan Layanan",
+      "paragraphs": [
+        "Situs ini adalah pusat panduan independen buatan penggemar. Konten disediakan untuk tujuan informasi dan hiburan saja.",
+        "Sistem permainan, kode, penurunan, dan detail pembaruan dapat berubah tanpa pemberitahuan. Selalu verifikasi informasi penting dalam game atau melalui saluran resmi.",
+        "Dengan menggunakan situs ini, Anda setuju untuk tidak menyalahgunakannya, mencoba mengakses tanpa izin, atau menampilkan wiki penggemar ini sebagai properti resmi Catch a Plane, Oi_iO, atau Roblox."
+      ]
+    },
+    "copyright": {
+      "title": "Hak Cipta",
+      "paragraphs": [
+        "Catch a Plane, Roblox, Oi_iO, karya seni game, logo, dan media terkait adalah milik pemiliknya masing-masing.",
+        "Situs ini adalah wiki penggemar non-resmi independen yang dibuat untuk tujuan presentasi informasi dan panduan.",
+        "Jika Anda memiliki hak atas konten yang ditampilkan di sini dan memiliki kekhawatiran, silakan hubungi operator situs untuk ditinjau."
+      ]
+    }
+  },
+  "footer": {
+    "aboutTitle": "Catch a Plane Wiki",
+    "about": "Catch a Plane Wiki adalah pusat panduan independen yang dibuat oleh penggemar yang mencakup strategi menangkap pesawat, peningkatan sarung tangan dan perlengkapan, latihan kekuatan, kode, dan tip perkembangan untuk pemain baru dan veteran.",
+    "quickLinks": "Tautan Cepat",
+    "guides": "Panduan",
+    "legal": "Hukum",
+    "copyright": "2026 Catch a Plane Wiki. Tidak berafiliasi dengan Oi_iO atau Roblox.",
+    "description": "Simulator menangkap pesawat Roblox. Tangkap pesawat, latih kekuatan, tingkatkan sarung tangan, dan buka dunia baru.",
+    "playGame": "Mainkan Catch a Plane di Roblox",
+    "officialDiscord": "Komunitas Kreator Roblox",
+    "officialYoutube": "Video Permainan Catch a Plane",
+    "vvBuilder": "Catch a Plane Wiki",
+    "beginnerGuide": "Panduan Pemula",
+    "raceGuides": "Panduan Sarung Tangan & Perlengkapan",
+    "bossGuides": "Panduan Kemajuan",
+    "buildGuide": "Kode Aktif",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsOfService": "Ketentuan Layanan"
+  }
+}

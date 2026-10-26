@@ -1,3 +1,5 @@
+import { routing } from "@/i18n/routing";
+
 export interface SiteConfig {
   name: string;
   shortName: string;
@@ -32,6 +34,6 @@ export const siteConfig: SiteConfig = {
     community: "https://www.roblox.com/communities/34857128",
     youtube: "https://www.youtube.com/watch?v=aL1FDRtS7qQ",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
-  defaultLocale: "en",
+  locales: routing.locales,
+  defaultLocale: routing.defaultLocale,
 };

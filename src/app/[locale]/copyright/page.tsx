@@ -1,11 +1,27 @@
+import type { Metadata } from "next";
+import { getMessages } from "next-intl/server";
 import { LegalPage } from "@/components/legal-page";
+import en from "@/locales/en.json";
 
-export default function CopyrightPage() {
+type Messages = typeof en;
+
+async function getPage(locale: string) {
+  const messages = (await getMessages({ locale })) as Messages;
+  return messages.legal.copyright;
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
+  const page = await getPage(locale);
+  return { title: page.title, description: page.paragraphs[0] };
+}
+
+export default async function CopyrightPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  const page = await getPage(locale);
   return (
-    <LegalPage title="Copyright">
-      <p>Catch a Plane, Roblox, Oi_iO, game artwork, logos, and related media belong to their respective owners.</p>
-      <p>This site is an independent, non-official fan wiki created for informational and guide presentation purposes.</p>
-      <p>If you own rights to content displayed here and have a concern, please contact the site operator for review.</p>
+    <LegalPage title={page.title}>
+      {page.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
     </LegalPage>
   );
 }

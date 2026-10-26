@@ -13,12 +13,13 @@ import type { ContentItem } from "@/lib/content";
 import en from "@/locales/en.json";
 
 type Home = typeof en.home;
+type Shared = typeof en.shared;
 
 const icons: LucideIcon[] = [BookOpen, Shield, Compass, Boxes, Flame, Code2, Swords, MapIcon, Users, Trophy, Skull, Zap, CircleHelp, ScrollText];
 const YOUTUBE_VIDEO_ID = siteConfig.heroVideoId || "aL1FDRtS7qQ";
 
 
-export default function HomePageClient({ home, locale, articles, recentArticles }: { home: Home; locale: string; articles: ContentItem[]; recentArticles: ContentItem[] }) {
+export default function HomePageClient({ home, shared, locale, articles, recentArticles }: { home: Home; shared: Shared; locale: string; articles: ContentItem[]; recentArticles: ContentItem[] }) {
   return (
     <div className="min-w-0 space-y-16">
       {/* Sticky 320x50 banner — top revenue slot, dismissable (course §4.3/4.4) */}
@@ -40,8 +41,8 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
       </section>
 
       {YOUTUBE_VIDEO_ID && (
-        <section aria-label="Catch a Plane gameplay preview" className="mx-auto w-full max-w-6xl">
-          <TrailerButton videoId={YOUTUBE_VIDEO_ID} />
+        <section aria-label={shared.gameplayPreview} className="mx-auto w-full max-w-6xl">
+          <TrailerButton videoId={YOUTUBE_VIDEO_ID} previewLabel={shared.gameplayPreview} videoLabel={shared.gameplayVideo} closeLabel={shared.close} />
         </section>
       )}
 
@@ -210,7 +211,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
                           "text-muted-foreground";
                         return (
                           <div key={i} className={`rounded-xl border p-4 ${tierColor}`}>
-                            <span className={`text-sm font-bold ${tierText}`}>{h.label} Tier</span>
+                            <span className={`text-sm font-bold ${tierText}`}>{h.label} {shared.tier}</span>
                             <p className="mt-1.5 text-xs leading-5 text-muted-foreground">{h.detail}</p>
                           </div>
                         );
@@ -234,7 +235,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
                     href={localizeHref(mod.href, locale)}
                     className="mt-5 inline-flex items-center text-sm font-semibold text-[hsl(var(--nav-theme))] hover:underline"
                   >
-                    Read Full Guide <ChevronRight className="ml-1 h-4 w-4" />
+                    {shared.readFullGuide} <ChevronRight className="ml-1 h-4 w-4" />
                   </Link>
                 </div>
               </div>

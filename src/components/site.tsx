@@ -85,12 +85,8 @@ export async function WikiSidebar({ locale, navGroups, currentPath }: { locale: 
         <h3 className="mb-3 text-sm font-bold text-foreground">{t("activeCodes")}</h3>
         <div className="space-y-3 text-sm">
           <div className="rounded-xl bg-muted p-3">
-            <code className="font-bold text-foreground">OIIO10K</code>
-            <p className="mt-1 text-muted-foreground">Official gift code from the Catch a Plane game page</p>
-          </div>
-          <div className="rounded-xl bg-muted p-3">
-            <code className="font-bold text-foreground">STAY-TUNED</code>
-            <p className="mt-1 text-muted-foreground">Check back soon for new codes</p>
+            <code className="font-bold text-foreground">oiio10k</code>
+            <p className="mt-1 text-muted-foreground">{t("officialGiftCodeDetail")}</p>
           </div>
           <Link href={localizeHref("/codes", locale)} className="inline-flex items-center gap-1 text-sm font-semibold text-[hsl(var(--nav-theme))]">{t("viewAllCodes")} <ChevronRight className="h-4 w-4" /></Link>
         </div>
@@ -142,11 +138,11 @@ function FooterList({ locale, title, links }: { locale: string; title: string; l
   );
 }
 
-export function TrailerCard({ videoId }: { videoId: string }) {
+export function TrailerCard({ videoId, previewLabel }: { videoId: string; previewLabel: string }) {
   return (
     <div className="group relative cursor-pointer overflow-hidden rounded-2xl border border-border shadow-lg transition-all duration-200">
       <div className="relative aspect-video w-full">
-        <img src="/images/hero-trailer-thumbnail.jpg" alt={`${siteConfig.name} gameplay preview`} className="size-full object-cover transition-all duration-200 group-hover:brightness-80" onError={(e) => { (e.target as HTMLImageElement).src = "/images/hero.webp"; }} />
+        <img src="/images/hero-trailer-thumbnail.jpg" alt={previewLabel} className="size-full object-cover transition-all duration-200 group-hover:brightness-80" onError={(e) => { (e.target as HTMLImageElement).src = "/images/hero.webp"; }} />
       </div>
       <div className="absolute inset-0 flex items-center justify-center">
         <div className="flex size-20 items-center justify-center rounded-full bg-primary/10 backdrop-blur-md transition-transform duration-200 group-hover:scale-105 sm:size-24">
@@ -160,24 +156,24 @@ export function TrailerCard({ videoId }: { videoId: string }) {
   );
 }
 
-export function TrailerDialog({ videoId }: { videoId: string }) {
+export function TrailerDialog({ videoId, videoLabel, closeLabel }: { videoId: string; videoLabel: string; closeLabel: string }) {
   return (
     <dialog id="trailer-dialog" className="fixed inset-0 z-[100] flex items-center justify-center bg-black/80 backdrop-blur-sm opacity-0 pointer-events-none transition-opacity duration-200" onClick={(e) => { const d = document.getElementById("trailer-dialog") as HTMLDialogElement; if (e.target === d) { d.close(); d.classList.add("opacity-0", "pointer-events-none"); d.classList.remove("opacity-100", "pointer-events-auto"); } }}>
       <div className="relative w-full max-w-4xl mx-4">
-        <iframe id="trailer-iframe" title={`${siteConfig.name} gameplay video`} className="aspect-video w-full rounded-xl" allow="autoplay; encrypted-media" allowFullScreen />
-        <button className="absolute -top-10 right-0 text-white/80 hover:text-white text-sm font-medium" onClick={() => { const d = document.getElementById("trailer-dialog") as HTMLDialogElement; d.close(); d.classList.add("opacity-0", "pointer-events-none"); d.classList.remove("opacity-100", "pointer-events-auto"); }}>✕ Close</button>
+        <iframe id="trailer-iframe" title={videoLabel} className="aspect-video w-full rounded-xl" allow="autoplay; encrypted-media" allowFullScreen />
+        <button className="absolute -top-10 right-0 text-white/80 hover:text-white text-sm font-medium" onClick={() => { const d = document.getElementById("trailer-dialog") as HTMLDialogElement; d.close(); d.classList.add("opacity-0", "pointer-events-none"); d.classList.remove("opacity-100", "pointer-events-auto"); }}>✕ {closeLabel}</button>
       </div>
     </dialog>
   );
 }
 
-export function TrailerButton({ videoId }: { videoId: string }) {
+export function TrailerButton({ videoId, previewLabel, videoLabel, closeLabel }: { videoId: string; previewLabel: string; videoLabel: string; closeLabel: string }) {
   return (
     <>
       <button type="button" className="w-full" aria-haspopup="dialog" onClick={() => { const d = document.getElementById("trailer-dialog") as HTMLDialogElement; const f = document.getElementById("trailer-iframe") as HTMLIFrameElement; f.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`; d.showModal(); d.classList.remove("opacity-0", "pointer-events-none"); d.classList.add("opacity-100", "pointer-events-auto"); }}>
-        <TrailerCard videoId={videoId} />
+        <TrailerCard videoId={videoId} previewLabel={previewLabel} />
       </button>
-      <TrailerDialog videoId={videoId} />
+      <TrailerDialog videoId={videoId} videoLabel={videoLabel} closeLabel={closeLabel} />
     </>
   );
 }
